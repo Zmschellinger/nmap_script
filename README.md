@@ -1,4 +1,4 @@
-# Nmapper.sh - Enhanced Nmap Scanning Script
+# Nmapper.sh - lightweight nmap scanning script 
 
 A smart Bash wrapper around Nmap that performs fast, parallel TCP and UDP scanning with organized output.
 
